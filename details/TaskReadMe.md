@@ -19,7 +19,7 @@ The new headcap will be hollow as it needs to allow the mounting of a miniature 
 
 The motor box is shown in the correspondingly-named image files.
 
-Notice that the computer has a ventilation port and connection to a RJ45 Gigabit Ethernet socket IEEE802.3 and a 0.9mm power socket. Ventilation needs to be extended to outside the headcap for air-intake but should be mostly invisible where possible. The headcap will be the external shell for the back of the head and support it on the neck.
+Notice that the computer has a ventilation port and connection to a RJ45 Gigabit Ethernet socket IEEE802.3 and a 0.9mm power socket. Ventilation needs to be extended to outside the headcap for air-intake but should be mostly invisible where possible. The headcap will be the external shell for the back of the head and support the motors toward its center of inertia and the face on the neck joint.
 
 There will be an onboard battery on the lower part of the robot but a cable will need to come through the neck to connect with the power socket. The Ethernet socket will not connect externally but is a maintenance port when the headcap is removed.
 
