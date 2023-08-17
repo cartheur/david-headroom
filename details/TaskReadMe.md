@@ -15,7 +15,9 @@ The head is wholly inappropriate for use because:
 
 The point where the AX12 motor (top mounting in the case - see the solidworks file) and the original head (see the solidworks file "old-head") join needs to be reused for the completely new head from this mechanical attachment. Another part of the head will mount to an existing face that has a set of servo motors, with a dimension shown in the photo "headcap-front-x -y".
 
-The new headcap will be hollow as it needs to allow the mounting of a miniature computer just behind the box that contains the collection of servo motors. The size and thread-spacing for the screw-mounted joint (bolt, washer, and nut) is shown in the "computer-x -y" files. The motor box is shown in the corresponding files.
+The new headcap will be hollow as it needs to allow the mounting of a miniature computer just behind the box that contains the collection of servo motors. It will mount from top-bottom against the backplane of the motor box, so a connection join needs to be designed to fit. The motor box, face, can be connected to the faceplace and fit into the headcap on assembly by eye with the wire for the battery connection available to small human hands. The size and bolt-spacing for the screw-mounted joint (bolt, washer, and nut) is shown in the "computer-x -y" files. This should be M3 metal fastener stainless steel.
+
+The motor box is shown in the corresponding files.
 
 Notice that the computer has a ventilation port and connection to a RJ45 Gigabit Ethernet socket IEEE802.3 and a 0.9mm power socket. There will be an onboard battery on the lower part of the robot but a cable will need to come through the neck to connect with the power socket. The Ethernet socket will not connect externally but is a maintenance port when the headcap is removed.
 
