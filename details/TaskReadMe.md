@@ -25,6 +25,8 @@ There will be an onboard battery on the lower part of the robot but a cable will
 
 A design is required how the headcap will fasten to the faceplate with a threaded fastener. The drive  should be unique to a corresponding handtool such that only a person who has this special tool, can remove the headcap getting access to the computer and motor box. A modified version of torx (sized appropriately to the scale shown in the photos) is suggested as a place to begin.
 
+In the original design, the faceplace was sewn onto the headcap as it has plush fabric near to the edges of the faceplate. It extends up to 3cm at the cheeks but is shorter at the brow while even at the chin. It snaps into the motor box that contains the animatronic eyes and mouth.
+
 The bolt/nut pattern for the neck joint will be inherited from the old design, as shown in the appropriately-named files in this repository.
 
 Good luck!
