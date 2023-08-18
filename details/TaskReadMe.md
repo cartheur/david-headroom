@@ -29,5 +29,7 @@ In the original design, the faceplace was sewn onto the headcap as it has plush 
 
 The bolt/nut pattern for the neck joint will be inherited from the old design, as shown in the appropriately-named files in this repository.
 
+There is a part of the design that is unsure if it needs to be implemented in the new head; this is the i-beam style neck that mounts into the bottom of the motor box (see picture) and extends through the old padded headcap where it connected to a tubular frame. The engineering question is: does the i-beam need to be added to the connection joint at the AX12A motor?
+
 Good luck!
 
