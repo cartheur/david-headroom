@@ -33,5 +33,7 @@ There is a part of the design that is unsure if it needs to be implemented in th
 
 (hand-drawn document will be uploaded shortly)
 
+[Program motivation that is needed](https://projet.liris.cnrs.fr/ideal/mooc/)
+
 Good luck!
 
