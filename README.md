@@ -1,5 +1,5 @@
 # david-headroom
-A new robotic head with an animated face
+A new robotic head for an existing bipedal robot with an animated face
 
 ## The backstory
 
