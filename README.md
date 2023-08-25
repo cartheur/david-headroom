@@ -3,7 +3,7 @@ A new robotic head for an existing bipedal robot with an animated face
 
 ## The backstory
 
-In 2015, a brilliant project called Poppy came onto the scene demonstrating the true power of 3D-printed designs for bipedal robots and that manufacturing of such robots could be done cheaply, effectively, and cost-efficiently to be able to reduce the cost-burden to the customer. This makes the idea of a bipedal robot with the behaviour of a child realistic to most buyers with a price-point somewhere in the 3-5k range. The presence, embedded as operational software, has specific and unique behaviour-based learning at runtime such that it can teach itself to walk and other gestures if demonstrated by its participant.
+In 2015, a brilliant project called Poppy came onto the scene demonstrating the true power of 3D-printed designs for bipedal robots and that manufacturing of such robots could be done cheaply, effectively, and cost-efficiently to be able to reduce the cost-burden to the customer. This makes the idea of a bipedal robot with the behaviour of a child realistic to most buyers with a price-point somewhere in the 3-5k range. The presence, embedded as operational software, has specific and unique behaviour-based learning at runtime such that it can teach itself to walk and other gestures if demonstrated by its participant. This is novel and has not been attempted on a cost-efficient platform such as this.
 
 ## What is here
 
