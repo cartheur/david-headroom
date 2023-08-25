@@ -31,9 +31,9 @@ The bolt/nut pattern for the neck joint will be inherited from the old design, a
 
 There is a part of the design that is unsure if it needs to be implemented in the new head; this is the i-beam style neck that mounts into the bottom of the motor box (see picture) and extends through the old padded headcap where it connected to a tubular frame. The engineering question is: does the i-beam need to be added to the connection joint at the AX12A motor?
 
-(hand-drawn document will be uploaded shortly)
+The hand-drawn sketch is contained below.
 
-[Program motivation that is needed](https://projet.liris.cnrs.fr/ideal/mooc/)
+![Handdrawn neck](/details/neck-handsketch-old.jpg "Neck-old")
 
 Good luck!
 
