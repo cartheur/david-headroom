@@ -17,4 +17,4 @@ Below is a figure of the face as it currently is oriented on a platform.
 
 ![Animated face today](/details/animated-face.jpg "Necessary-face")
 
-More details soom.
+This schema follows our design priciples of the preference of "old-school" animatronics rather than digital displays.
