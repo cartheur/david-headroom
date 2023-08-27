@@ -17,4 +17,4 @@ Below is a figure of the face as it currently is oriented on a platform.
 
 ![Animated face today](/details/animated-face.jpg "Necessary-face")
 
-This schema follows our design priciples of the preference of "old-school" animatronics rather than digital displays.
+This schema follows our design priciples of the preference of "old-school" animatronics rather than digital displays. It is this level of branding that separates emotional toys from other kinds of social-consumer robot offerings.
