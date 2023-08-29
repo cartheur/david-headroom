@@ -29,4 +29,14 @@ As an actual part
 
 ![AX-12A](/neck/AX-12A-real.jpg "Neck motor")
 
+That mounted onto the original head
 
+![AX-12A](/head/old-head.png "Neck motor")
+
+More focused, at this mount of the part
+
+![AX-12A](/neck/old-head-neck-mount.stl "Neck motor")
+
+That needs to support the face, as a finished display
+
+![AX-12A](/face/face-mock.jpg "Neck motor")
