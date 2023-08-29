@@ -41,7 +41,7 @@ Where the STL file can be found [here](/neck/old-head-neck-mount.stl).
 
 The idea is to build a new headcap that only has a tracing of the face joint as a flat surface:
 
-![AX-12A](/face/faceplate-scan.tiff "Faceplate scan")
+![AX-12A](/face/faceplate-scan.jpeg "Faceplate scan")
 
 Where in the folder 'face" you can find photographs with a calibrated stick to show the dimensions. It will be a very challenging exercise to realize this cap with the new face and the addition of an internal computer. The face that needs to be supported, as a finished display:
 
