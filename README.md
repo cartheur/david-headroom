@@ -37,7 +37,7 @@ More focused, at this mount of the part
 
 ![AX-12A](/mount/original-neck-mount.png "Neck motor")
 
-Where the STL file can be found [here]{/neck/old-head-neck-mount.stl}.
+Where the STL file can be found [here](/neck/old-head-neck-mount.stl).
 
 That needs to support the face, as a finished display
 
