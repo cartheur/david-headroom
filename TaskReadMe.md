@@ -33,7 +33,7 @@ There is a part of the design that is unsure if it needs to be implemented in th
 
 The hand-drawn sketch is contained below.
 
-![Handdrawn neck](/details/neck-handsketch-old.jpg "Neck-old")
+![Handdrawn neck](/neck/neck-handsketch-old.jpg "Neck-old")
 
 Good luck!
 
