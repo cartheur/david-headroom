@@ -11,6 +11,10 @@ An attempt to adapt a new head to the robot that contains a plush face with anim
 
 How about that Idea?
 
+## Where are the instructions?
+
+Please have a look at [this](/TaskReadMe.md) ReadMe file.
+
 ## What does the face look like now?
 
 Below is a figure of the face as it currently is oriented on a platform.
