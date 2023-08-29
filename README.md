@@ -49,4 +49,6 @@ The idea is to build a new headcap that only has a tracing of the face joint as 
 
 Where in the folder 'face" you can find photographs with a calibrated stick to show the dimensions. It will be a very challenging exercise to realize this cap with the new face and the addition of an internal computer. The face that needs to be supported, as a finished display:
 
-![AX-12A](/face/face-mock.jpg "Neck motor")
+![cartheur-presents](/face/face-mock.jpg "mock face")
+
+Bear in-mind that the curved space above the forehead will most likely have a camera placement.
