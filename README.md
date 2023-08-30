@@ -13,7 +13,7 @@ This is the challenge set upon anyone who would like to participate with us on t
 
 ## Where are the instructions?
 
-Please have a look at [this](/TaskReadMe.md) ReadMe file.
+Please have a look at [this](/TaskReadMe.md) ReadMe.
 
 ## What does the face look like now?
 
