@@ -29,7 +29,7 @@ With this face, we need to crete a headcap that will mount at the neck with this
 
 ![AX-12A](/neck/AX-12A-SW-partial.jpg "Neck motor")
 
-As an actual part
+As an actual part, where you can find its CAD drawings [here](https://emanual.robotis.com/docs/en/dxl/ax/ax-18a/#reference).
 
 ![AX-12A](/neck/AX-12A-real.jpg "Neck motor")
 
