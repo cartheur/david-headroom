@@ -33,7 +33,7 @@ As an actual part
 
 ![AX-12A](/neck/AX-12A-real.jpg "Neck motor")
 
-That mounted onto the original head
+That mounted onto the original headcap
 
 ![AX-12A](/head/old-head.png "Neck motor")
 
