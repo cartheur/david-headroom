@@ -17,7 +17,7 @@ Please have a look at [this](/TaskReadMe.md) ReadMe.
 
 ## What does the face look like now?
 
-Below is a figure of the face as it currently is oriented on a platform.
+Below is a figure of the face as it currently is oriented on a platform that has been previously developed.
 
 ![Animated face today](/face/animated-face.jpg "Necessary-face")
 
