@@ -7,7 +7,7 @@ In 2015, a brilliant project called Poppy came onto the scene demonstrating the 
 
 ## What is here
 
-An attempt to adapt a new head to the robot that contains a plush face with animatronic eyes and mouth. I think that totallly digital robotic interfaces are not helpful at evolving the human-machine interface. They need to appear organic for humans to emotionally accept their presence and the level of intimacy they will ultimately provide. And people outside of that relationship should not be privy to any of it. Each of us needs to take our experience as it is and keep it memories stored on a robotic companion that is not shared with ANY external network. It is completely isolated from the Cloud.
+An attempt to adapt a new head to the robot that contains a plush face with animatronic eyes and mouth. I think that totallly digital robotic interfaces are not helpful at evolving the human-machine interface. They need to appear organic for humans to emotionally accept their presence and the level of intimacy they will ultimately provide. And people outside of that relationship should not be privy to any of it. Each of us needs to take our experience as it is and keep it memories stored on a robotic companion that is not shared with ANY external network. It is completely isolated from the Cloud and does not require external communications for its runtime.
 
 This is the challenge set upon anyone who would like to participate with us on this project. This is not necessarily a test, rather, an introduction to curvature.
 
